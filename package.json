@@ -64,7 +64,7 @@
   },
   "description": "A Test Design System",
   "main": "index.js",
-  "repository": "https://github.com/ampersand83/learnstorybook-design-system.git",
+  "repository": "https://github.com/szuelch/learnstorybook-design-system.git",
   "author": "Stefan Zülch <stefan.zuelch@hr.de>",
   "license": "MIT"
 }
