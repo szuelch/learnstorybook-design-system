@@ -66,5 +66,6 @@
   "main": "index.js",
   "repository": "https://github.com/szuelch/learnstorybook-design-system.git",
   "author": "Stefan Zülch <stefan.zuelch@hr.de>",
-  "license": "MIT"
+  "license": "MIT",
+  "private": false
 }
