@@ -1,3 +1,17 @@
+# v0.1.7 (Fri Mar 12 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of https://github.com/szuelch/learnstorybook-design-system ([@szuelch](https://github.com/szuelch))
+- Update chromatic.yml ([@szuelch](https://github.com/szuelch))
+- changes the chromatic deploy token ([@szuelch](https://github.com/szuelch))
+
+#### Authors: 1
+
+- [@szuelch](https://github.com/szuelch)
+
+---
+
 # v0.1.6 (Fri Mar 12 2021)
 
 #### 🐛 Bug Fix
