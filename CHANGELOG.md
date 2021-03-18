@@ -1,3 +1,15 @@
+# v0.1.9 (Thu Mar 18 2021)
+
+#### 🐛 Bug Fix
+
+- changes path to index.js [#7](https://github.com/szuelch/learnstorybook-design-system/pull/7) ([@szuelch](https://github.com/szuelch))
+
+#### Authors: 1
+
+- [@szuelch](https://github.com/szuelch)
+
+---
+
 # v0.1.8 (Fri Mar 12 2021)
 
 #### 🐛 Bug Fix
