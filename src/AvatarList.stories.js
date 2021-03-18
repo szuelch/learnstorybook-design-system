@@ -1,9 +1,9 @@
 import React from "react";
 
 import { AvatarList } from "./AvatarList";
-
 export default {
   title: "Design System/AvatarList",
+  component: AvatarList,
 };
 
 const Template = (args) => <AvatarList {...args} />;
