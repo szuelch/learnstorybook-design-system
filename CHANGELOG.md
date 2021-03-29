@@ -1,3 +1,15 @@
+# v0.3.0 (Mon Mar 29 2021)
+
+#### 🚀 Enhancement
+
+- changes [#9](https://github.com/szuelch/learnstorybook-design-system/pull/9) ([@szuelch](https://github.com/szuelch))
+
+#### Authors: 1
+
+- [@szuelch](https://github.com/szuelch)
+
+---
+
 # v0.2.0 (Thu Mar 18 2021)
 
 #### 🚀 Enhancement
