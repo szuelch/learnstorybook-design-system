@@ -1,3 +1,15 @@
+# v0.3.1 (Tue Mar 30 2021)
+
+#### 🐛 Bug Fix
+
+- reduces border-width [#10](https://github.com/szuelch/learnstorybook-design-system/pull/10) ([@szuelch](https://github.com/szuelch))
+
+#### Authors: 1
+
+- [@szuelch](https://github.com/szuelch)
+
+---
+
 # v0.3.0 (Mon Mar 29 2021)
 
 #### 🚀 Enhancement
